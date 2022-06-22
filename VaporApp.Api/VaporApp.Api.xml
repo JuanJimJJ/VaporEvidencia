@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VaporApp.Api</name>
+    </assembly>
+    <members>
+        <member name="M:VaporApp.Api.Controllers.UsersController.Get">
+            <summary>
+            Returns a list of every user in the platform
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
